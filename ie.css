@@ -1,0 +1,15 @@
+html {overflow-x:auto;overflow-y:hidden;}
+
+.links ul{margin-left:0;}
+
+#lower_right p{padding-right:20px}
+
+#footer{height:30px}
+
+.post_summary ul{margin-left:0}
+
+#lower_page{padding-left:30px}
+
+#lower_left,#lower_single{padding:0;margin:0}
+
+h2.iefix{padding-bottom:8px}
